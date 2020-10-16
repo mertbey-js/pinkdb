@@ -1,0 +1,9 @@
+{
+    "name": "pink.db",
+    "version": "0.0.1",
+    "description": "Kullanışlı DB(DATABASE) Modülü",
+    "main": "pink.js",
+    "repository": "",
+    "author": "{mert}#9999 <-- Discord Adress",
+    "license": "MIT"
+}
